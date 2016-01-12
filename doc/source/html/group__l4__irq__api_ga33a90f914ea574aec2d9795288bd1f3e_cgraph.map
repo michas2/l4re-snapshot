@@ -1,0 +1,11 @@
+<map id="l4_irq_attach" name="l4_irq_attach">
+<area shape="rect" id="node2" href="$group__l4__irq__api.html#ga4c223bd014d16a6e114ac22376e1bfa1" title="Attach a thread to this interrupt. " alt="" coords="157,107,276,133"/>
+<area shape="rect" id="node10" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="183,157,250,184"/>
+<area shape="rect" id="node3" href="$group__l4__cap__api.html#ga1aee507eabc91cc118429decc9e8cb45" title="Test if a capability selector is the invalid capability. " alt="" coords="331,5,462,32"/>
+<area shape="rect" id="node4" href="$group__l4__msgitem__api.html#ga6c9056957ac92e458eaabcbf3223ce6f" title="Create the first word for a map item for the object space. " alt="" coords="324,56,469,83"/>
+<area shape="rect" id="node6" href="$group__l4__fpage__api.html#ga3eaf59757a63812044e2b3a1cdf09d54" title="Create a kernel&#45;object flex page. " alt="" coords="345,107,448,133"/>
+<area shape="rect" id="node7" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="353,157,441,184"/>
+<area shape="rect" id="node9" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="353,208,440,235"/>
+<area shape="rect" id="node5" href="$group__l4__msgitem__api.html#ga1ce1321fd25614e9af43a35819540ba7" title="Create the first word for a map item for the memory space. " alt="" coords="517,56,636,83"/>
+<area shape="rect" id="node8" href="$group__l4__ipc__api.html#ga0e7e5b18d784b1d3439ea6e5b4bea4e2" title="Generic L4 object invocation. " alt="" coords="547,157,606,184"/>
+</map>

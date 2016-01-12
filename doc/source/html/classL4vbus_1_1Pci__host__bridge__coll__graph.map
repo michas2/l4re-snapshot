@@ -1,0 +1,7 @@
+<map id="L4vbus::Pci_host_bridge" name="L4vbus::Pci_host_bridge">
+<area shape="rect" id="node2" href="$classL4vbus_1_1Device.html" title="Device on a virtual bus (V&#45;BUS) " alt="" coords="131,491,265,700"/>
+<area shape="rect" id="node3" href="$classL4vbus_1_1Pm.html" title="{L4vbus::Pm\&lt; Device \&gt;\n||+ pm_suspend()\l+ pm_resume()\l}" alt="" coords="5,292,164,384"/>
+<area shape="rect" id="node4" href="$classL4vbus_1_1Pm.html" title="Power&#45;management API mixin. " alt="" coords="12,49,157,141"/>
+<area shape="rect" id="node5" href="$singletonL4_1_1Cap.html" title="{L4::Cap\&lt; L4vbus::Vbus \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ copy()\l+ operator&#45;\&gt;()\l}" alt="" coords="188,248,363,428"/>
+<area shape="rect" id="node6" href="$singletonL4_1_1Cap.html" title="C++ interface for capabilities. " alt="" coords="220,5,331,185"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="L4virtio::Svr::Dev_config::Dev_config" name="L4virtio::Svr::Dev_config::Dev_config">
+<area shape="rect" id="node2" href="$namespaceL4Re.html#a64b057254a760643ba67a9ed452fede8" title="Check for valid capability or raise C++ exception. " alt="" coords="224,5,331,32"/>
+<area shape="rect" id="node3" href="$namespaceL4Re.html#a3f17984019f06676a7e3eecb41bbb0bb" title="Generate C++ exception on error. " alt="" coords="225,56,330,83"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Env.html#aa1181d6256037deda5b5f83c2006ba60" title="Returns the initial environment for the current task. " alt="" coords="220,107,335,133"/>
+<area shape="rect" id="node5" href="$namespaceL4_1_1Ipc.html#a1beb107cf1e6be1f43b0861dacf48969" title="Make an L4::Ipc::Cap&lt;T&gt; for the given capability with L4_CAP_FPAGE_RW rights. " alt="" coords="199,157,356,184"/>
+<area shape="rect" id="node6" href="$classL4virtio_1_1Svr_1_1Dev__config.html#ac778b373e352fd78d4ed8a2b2f11c37e" title="Reset the config header to the initial contents. " alt="" coords="210,209,345,250"/>
+</map>

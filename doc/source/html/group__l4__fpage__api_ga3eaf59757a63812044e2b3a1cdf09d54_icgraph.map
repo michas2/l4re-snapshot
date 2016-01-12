@@ -1,0 +1,19 @@
+<map id="l4_obj_fpage" name="l4_obj_fpage">
+<area shape="rect" id="node2" href="$group__l4__factory__api.html#ga935f08d65381d02d9bc6d3a48abe8a78" title="Create a new IPC gate. " alt="" coords="156,56,339,83"/>
+<area shape="rect" id="node5" href="$group__l4__icu__api.html#ga29217a67f405c5d860002dd902bf71e4" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="194,157,301,184"/>
+<area shape="rect" id="node9" href="$group__l4__icu__api.html#gae74204b8f2101e176add646ec2958182" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="186,233,309,260"/>
+<area shape="rect" id="node12" href="$group__l4__irq__api.html#ga4c223bd014d16a6e114ac22376e1bfa1" title="Attach a thread to this interrupt. " alt="" coords="188,309,307,336"/>
+<area shape="rect" id="node16" href="$group__l4__irq__api.html#ga0bfe3132479962ae237087568fc2c94f" title="Attach an IRQ to this multiplexer. " alt="" coords="174,411,321,437"/>
+<area shape="rect" id="node3" href="$classL4_1_1Factory.html#a5085c44d657e806e17e7377c144a7c17" title="Create a new IPC gate. " alt="" coords="387,5,560,32"/>
+<area shape="rect" id="node4" href="$group__l4__factory__api.html#ga15e3ccc0f2ac38b98bfc943bfbcbfc57" title="Create a new IPC gate. " alt="" coords="389,56,557,83"/>
+<area shape="rect" id="node6" href="$group__l4__icu__api.html#ga793c534597fd98ee93cbaf24ad08a615" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="427,107,519,133"/>
+<area shape="rect" id="node7" href="$classL4_1_1Icu.html#a998aaa8314b29b44aac4e3b59d7abfa0" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="426,157,521,184"/>
+<area shape="rect" id="node8" href="$classL4Re_1_1Util_1_1Event__t.html#a6052908f83d35a7bb1ba9371cbfc9834" title="Initialise an event object. " alt="" coords="623,150,759,191"/>
+<area shape="rect" id="node10" href="$group__l4__icu__api.html#ga77d613300601861b13605e7687146dc5" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="420,208,527,235"/>
+<area shape="rect" id="node11" href="$classL4_1_1Icu.html#a47be3c88b707afd0fc55475261f6164d" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="419,259,528,285"/>
+<area shape="rect" id="node13" href="$group__l4__irq__api.html#ga33a90f914ea574aec2d9795288bd1f3e" title="Attach a thread to an interrupt source. " alt="" coords="421,309,525,336"/>
+<area shape="rect" id="node14" href="$classL4_1_1Irq.html#a639504ec59299d5cc32f3e42f007317d" title="Attach a thread to this interrupt. " alt="" coords="420,360,527,387"/>
+<area shape="rect" id="node15" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="608,353,775,394"/>
+<area shape="rect" id="node17" href="$group__l4__irq__api.html#ga3176fd8767eeabcf521356c6f1b21ac4" title="Chain an IRQ to another master IRQ source. " alt="" coords="407,411,539,437"/>
+<area shape="rect" id="node18" href="$structL4_1_1Irq__mux.html#ab1a64e5c210eac48b4600ef2fb85b967" title="Attach an IRQ to this multiplexer. " alt="" coords="406,461,541,488"/>
+</map>

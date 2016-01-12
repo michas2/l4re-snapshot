@@ -1,0 +1,4 @@
+<map id="L4virtio::Virtqueue::Desc::Flags::next" name="L4virtio::Virtqueue::Desc::Flags::next">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Request__processor.html#a3fa8c796730afc9fa5f3565c122e6e56" title="Are there more chained descriptors ? " alt="" coords="187,5,349,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Request__processor.html#ae538b473f4438553b4160024e7a1b0df" title="Switch to the next descriptor in a descriptor chain. " alt="" coords="191,71,345,112"/>
+</map>

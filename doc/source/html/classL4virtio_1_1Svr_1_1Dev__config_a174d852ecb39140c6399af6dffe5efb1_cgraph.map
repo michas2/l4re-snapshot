@@ -1,0 +1,4 @@
+<map id="L4virtio::Svr::Dev_config::set_failed" name="L4virtio::Svr::Dev_config::set_failed">
+<area shape="rect" id="node2" href="$structL4virtio_1_1Svr_1_1Dev__status.html#afc46730926dbfffa984b1ecee4dd1517" title="Get the failed bits ( 7 to 7 ) of raw . " alt="" coords="188,5,315,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a1652b9c534c3f557cca93246ed9bf13d" title="Get a read&#45;only pointer to the config header. " alt="" coords="188,71,315,112"/>
+</map>

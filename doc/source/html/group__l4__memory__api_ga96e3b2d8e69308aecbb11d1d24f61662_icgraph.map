@@ -1,0 +1,6 @@
+<map id="l4_round_page" name="l4_round_page">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Driver__mem__region__t.html#a7fd8e381e909e3ac2ca2b9fb7e0149d2" title="Make a local memory region for the given driver values. " alt="" coords="171,5,335,61"/>
+<area shape="rect" id="node3" href="$classL4Re_1_1Dataspace.html#a0989b8fd171878374b13fb752fd17912" title="Request a flex&#45;page mapping from the dataspace. " alt="" coords="171,85,334,112"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Dataspace.html#a714edfa3b455c8d21e72406d97f0aca8" title="Map a part of a dataspace completely. " alt="" coords="171,137,334,178"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Rm.html#a3c94994f5df76080279d08f12b8d4e99" title="Attach a data space to a region. " alt="" coords="383,144,511,171"/>
+</map>

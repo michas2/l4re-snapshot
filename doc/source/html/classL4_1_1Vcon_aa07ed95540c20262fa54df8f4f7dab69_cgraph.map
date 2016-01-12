@@ -1,0 +1,7 @@
+<map id="L4::Vcon::send" name="L4::Vcon::send">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="170,5,289,32"/>
+<area shape="rect" id="node3" href="$group__l4__vcon__api.html#ga9656f4fe7ea739a0bf162a5f76ef32fe" title="Send data to this virtual console. " alt="" coords="167,56,292,83"/>
+<area shape="rect" id="node4" href="$group__l4__ipc__api.html#ga7de45eb59ce852466362ea85da00299e" title="Send a message to an object (do not wait for a reply). " alt="" coords="340,31,439,57"/>
+<area shape="rect" id="node6" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="346,81,433,108"/>
+<area shape="rect" id="node5" href="$group__l4__ipc__api.html#ga0e7e5b18d784b1d3439ea6e5b4bea4e2" title="Generic L4 object invocation. " alt="" coords="487,31,545,57"/>
+</map>

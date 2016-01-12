@@ -1,0 +1,9 @@
+<map id="L4virtio::Svr::Device_t::setup_queue" name="L4virtio::Svr::Device_t::setup_queue">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Virtqueue.html#a031d371276beec1cb5cf550be6fac491" title="Completely disable the queue. " alt="" coords="200,5,333,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Driver__mem__list__t.html#a6a49e8a998b746e4794c5cc0589c56e3" title="Find memory region containing the given driver address region. " alt="" coords="197,71,336,112"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a1652b9c534c3f557cca93246ed9bf13d" title="Get a read&#45;only pointer to the config header. " alt="" coords="203,136,330,177"/>
+<area shape="rect" id="node5" href="$classL4virtio_1_1Svr_1_1Dev__config.html#adaa5d2ce8cf99b6aa619d712e97f457e" title="Get queue read&#45;only config data for queue with the given index. " alt="" coords="203,201,330,243"/>
+<area shape="rect" id="node6" href="$classL4virtio_1_1Virtqueue.html#aa607cd1131683e5649446ede5f8519ed" title="Enable this queue. " alt="" coords="200,267,333,308"/>
+<area shape="rect" id="node8" href="$classL4virtio_1_1Virtqueue.html#a29daa4b8a0b3b19353499ca4b7d25d63" title="Calculate the total size for a virtqueue of the given dimensions. " alt="" coords="200,332,333,373"/>
+<area shape="rect" id="node7" href="$classL4virtio_1_1Virtqueue.html#a9592b88f49a083162106c091fc741a7b" title="L4virtio::Virtqueue::num" alt="" coords="384,274,549,301"/>
+</map>

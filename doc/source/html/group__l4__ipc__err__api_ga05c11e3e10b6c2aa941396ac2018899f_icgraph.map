@@ -1,0 +1,9 @@
+<map id="l4_error" name="l4_error">
+<area shape="rect" id="node2" href="$classL4Re_1_1Mem__alloc.html#a5bd8f8ad58c0ef93a6598bec2f14f4a3" title="Allocate anonymous memory. " alt="" coords="126,5,291,32"/>
+<area shape="rect" id="node3" href="$namespaceL4.html#aaf3caa50a8aaf94af516141d878b009f" title="dynamic_cast for capabilities. " alt="" coords="128,56,289,83"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Util_1_1Event__t.html#a6052908f83d35a7bb1ba9371cbfc9834" title="Initialise an event object. " alt="" coords="141,107,277,149"/>
+<area shape="rect" id="node5" href="$group__l4__vcon__api.html#ga6ca009a14f3b99a82f23d70891dc3107" title="Write data to this virtual console. " alt="" coords="147,173,271,200"/>
+<area shape="rect" id="node8" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="125,225,292,266"/>
+<area shape="rect" id="node6" href="$classL4_1_1Vcon.html#a9f315c8727ffbd444e19e0c2528c9a93" title="Write data to this virtual console. " alt="" coords="340,148,452,175"/>
+<area shape="rect" id="node7" href="$group__l4__vcon__api.html#gadb811578d1b40de930857220696e1197" title="Write data to virtual console. " alt="" coords="341,199,451,225"/>
+</map>

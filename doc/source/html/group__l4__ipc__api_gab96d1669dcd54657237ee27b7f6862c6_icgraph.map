@@ -1,0 +1,51 @@
+<map id="l4_ipc_call" name="l4_ipc_call">
+<area shape="rect" id="node2" href="$classL4_1_1Ipc_1_1Iostream.html#a18ac55dddefc29f84d47935dbc86b7ca" title="Do an IPC call using the message in the output stream and receiving to the input stream. " alt="" coords="159,10,309,37"/>
+<area shape="rect" id="node3" href="$group__api__calls__fiasco.html#ga62cd4adfb0915e034d528472c73ad270" title="Return the offset of the entry in the GDT. " alt="" coords="157,61,311,103"/>
+<area shape="rect" id="node4" href="$group__api__calls__fiasco.html#ga889e52253474f768149a012b94fac148" title="Set GDT segment descriptors. " alt="" coords="177,127,291,154"/>
+<area shape="rect" id="node5" href="$group__api__calls__fiasco.html#ga394d6b4591383b0f6c78155e6e5e5180" title="Set LDT segments descriptors. " alt="" coords="179,178,289,205"/>
+<area shape="rect" id="node6" href="$group__l4__icu__api.html#ga29217a67f405c5d860002dd902bf71e4" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="181,229,287,255"/>
+<area shape="rect" id="node10" href="$group__l4__icu__api.html#ga7850caf0c29c87ba3477e1fe1139681f" title="Get information about the capabilites of the ICU. " alt="" coords="182,279,286,306"/>
+<area shape="rect" id="node13" href="$group__l4__icu__api.html#ga0c5c381566e2e9a8dbb41f14e33c4437" title="Get MSI info about IRQ. " alt="" coords="167,330,301,357"/>
+<area shape="rect" id="node15" href="$group__l4__icu__api.html#gac43905e779ca41f20c9cd23fb28ac095" title="Set interrupt mode. " alt="" coords="163,381,305,407"/>
+<area shape="rect" id="node18" href="$group__l4__icu__api.html#gae74204b8f2101e176add646ec2958182" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="173,431,295,458"/>
+<area shape="rect" id="node21" href="$group__l4__irq__api.html#ga4c223bd014d16a6e114ac22376e1bfa1" title="Attach a thread to this interrupt. " alt="" coords="175,494,293,521"/>
+<area shape="rect" id="node24" href="$group__l4__irq__api.html#ga52ad27a5a0d6a21bc7449a69a820db71" title="Detach from this interrupt. " alt="" coords="173,570,295,597"/>
+<area shape="rect" id="node27" href="$group__l4__irq__api.html#ga0bfe3132479962ae237087568fc2c94f" title="Attach an IRQ to this multiplexer. " alt="" coords="161,671,307,698"/>
+<area shape="rect" id="node30" href="$group__l4__irq__api.html#ga430999e1f8f6eb5f7e3f957b854b7446" title="Unmask and wait for this IRQ. " alt="" coords="171,773,297,799"/>
+<area shape="rect" id="node33" href="$group__l4__thread__api.html#ga9387fbfe618c3ede0eae63261ce1662e" title="Exchange basic thread registers. " alt="" coords="156,899,312,926"/>
+<area shape="rect" id="node37" href="$group__l4__thread__api.html#ga1015c5500bcfeaa01d209ee116cf57ec" title="Enable or disable the extended vCPU feature for the thread. " alt="" coords="149,1019,319,1060"/>
+<area shape="rect" id="node40" href="$group__l4__thread__api.html#ga8ebc0dd643266610d76860cf0fb77f53" title="Enable or disable the vCPU feature for the thread. " alt="" coords="141,1127,327,1154"/>
+<area shape="rect" id="node43" href="$group__l4__vcon__api.html#gae9c105658ebcbc5d1a86e0672f0a5465" title="Get attributes of this virtual console. " alt="" coords="163,1229,305,1255"/>
+<area shape="rect" id="node46" href="$group__l4__vcon__api.html#ga17f827c7d5f96b36a7c552af8d61a0e5" title="Set the attributes of this virtual console. " alt="" coords="163,1330,305,1357"/>
+<area shape="rect" id="node49" href="$classL4_1_1Thread.html#a61ecf8a06d2b4996ebb67180b1d5d35c" title="Apply sender modifiction rules. " alt="" coords="165,1407,303,1448"/>
+<area shape="rect" id="node7" href="$classL4_1_1Icu.html#a998aaa8314b29b44aac4e3b59d7abfa0" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="429,13,523,39"/>
+<area shape="rect" id="node9" href="$group__l4__icu__api.html#ga793c534597fd98ee93cbaf24ad08a615" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="430,63,522,90"/>
+<area shape="rect" id="node8" href="$classL4Re_1_1Util_1_1Event__t.html#a6052908f83d35a7bb1ba9371cbfc9834" title="Initialise an event object. " alt="" coords="625,5,761,47"/>
+<area shape="rect" id="node11" href="$classL4_1_1Icu.html#a21945937443dd5425d6372f02906c46c" title="Get information about the capabilites of the ICU. " alt="" coords="431,114,521,141"/>
+<area shape="rect" id="node12" href="$group__l4__icu__api.html#ga01c207fa8b166832b7eab0c60a8f2a7b" title="Get information about the capabilites of the ICU. " alt="" coords="431,165,521,191"/>
+<area shape="rect" id="node14" href="$group__l4__icu__api.html#ga626c5b32a678d274de89b2be944b6a3f" title="Get MSI info about IRQ. " alt="" coords="417,215,535,242"/>
+<area shape="rect" id="node16" href="$group__l4__icu__api.html#gad387684dcc6b4838f1d4f466e1aeef6f" title="Set interrupt mode. " alt="" coords="412,266,540,293"/>
+<area shape="rect" id="node17" href="$classL4_1_1Icu.html#ab2d78ee6c906239bde95f669a10405de" title="Set interrupt mode. " alt="" coords="411,317,541,343"/>
+<area shape="rect" id="node19" href="$group__l4__icu__api.html#ga77d613300601861b13605e7687146dc5" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="423,367,529,394"/>
+<area shape="rect" id="node20" href="$classL4_1_1Icu.html#a47be3c88b707afd0fc55475261f6164d" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="421,418,531,445"/>
+<area shape="rect" id="node22" href="$group__l4__irq__api.html#ga33a90f914ea574aec2d9795288bd1f3e" title="Attach a thread to an interrupt source. " alt="" coords="424,469,528,495"/>
+<area shape="rect" id="node23" href="$classL4_1_1Irq.html#a639504ec59299d5cc32f3e42f007317d" title="Attach a thread to this interrupt. " alt="" coords="423,519,529,546"/>
+<area shape="rect" id="node25" href="$group__l4__irq__api.html#ga1d9b0812f3bc01d6d5ff7010df231e56" title="Detach from an interrupt source. " alt="" coords="422,570,530,597"/>
+<area shape="rect" id="node26" href="$classL4_1_1Irq.html#a022dcb4101ba8205547c095cbc7e34a5" title="Detach from this interrupt. " alt="" coords="421,621,531,647"/>
+<area shape="rect" id="node28" href="$group__l4__irq__api.html#ga3176fd8767eeabcf521356c6f1b21ac4" title="Chain an IRQ to another master IRQ source. " alt="" coords="410,671,542,698"/>
+<area shape="rect" id="node29" href="$structL4_1_1Irq__mux.html#ab1a64e5c210eac48b4600ef2fb85b967" title="Attach an IRQ to this multiplexer. " alt="" coords="409,722,543,749"/>
+<area shape="rect" id="node31" href="$group__l4__irq__api.html#ga997f18b89d6235214d2f9c381ed6c6a5" title="Unmask and wait for specified IRQ. " alt="" coords="421,773,531,799"/>
+<area shape="rect" id="node32" href="$classL4_1_1Irq.html#a2b5cd8b070f23c8331dfac7903062ea5" title="Unmask and wait for this IRQ. " alt="" coords="419,823,533,850"/>
+<area shape="rect" id="node34" href="$classL4_1_1Thread.html#a77620ee9d438492867073654a705738d" title="Exchange basic thread registers. " alt="" coords="403,874,549,901"/>
+<area shape="rect" id="node35" href="$group__l4__thread__api.html#ga5e191cd9b1cbc5d0ac9166fb2bdd5a18" title="Exchange basic thread registers and return previous values. " alt="" coords="385,925,567,951"/>
+<area shape="rect" id="node36" href="$group__l4__thread__api.html#ga1ea29499c679caeae810516d16f4347c" title="Exchange basic thread registers. " alt="" coords="405,975,547,1002"/>
+<area shape="rect" id="node38" href="$classL4_1_1Thread.html#a32bb06d5ee3d08a69d6a2f2b37f80cdc" title="Enable or disable the extended vCPU feature for the thread. " alt="" coords="375,1026,577,1053"/>
+<area shape="rect" id="node39" href="$group__l4__thread__api.html#ga592d99fe80a0091a837f6001d0d5c25b" title="Enable or disable the extended vCPU feature for the thread. " alt="" coords="377,1077,575,1103"/>
+<area shape="rect" id="node41" href="$classL4_1_1Thread.html#af88410084b23685f43bb1ce5070428cd" title="Enable or disable the vCPU feature for the thread. " alt="" coords="388,1127,564,1154"/>
+<area shape="rect" id="node42" href="$group__l4__thread__api.html#gac3263f4949c90adda83dba763b195988" title="Enable or disable the vCPU feature for the thread. " alt="" coords="391,1178,561,1205"/>
+<area shape="rect" id="node44" href="$classL4_1_1Vcon.html#a9b3674cc14d955fe87758bcf5c0231bf" title="Get attributes of this virtual console. " alt="" coords="411,1229,541,1255"/>
+<area shape="rect" id="node45" href="$group__l4__vcon__api.html#gadc134de4289402f313cae68717e0a5d4" title="Get attributes of a Vcon. " alt="" coords="412,1279,540,1306"/>
+<area shape="rect" id="node47" href="$classL4_1_1Vcon.html#a2e4ede32765da35d522aace2e1100d6d" title="Set the attributes of this virtual console. " alt="" coords="411,1330,541,1357"/>
+<area shape="rect" id="node48" href="$group__l4__vcon__api.html#gad6423b427845fd9cff6d6b39b17f44d3" title="Set attributes of a Vcon. " alt="" coords="413,1381,539,1407"/>
+<area shape="rect" id="node50" href="$classL4Re_1_1Util_1_1Object__registry.html#a8024de07084752f23d01b71483949143" title="Remove a server object from the handler list. " alt="" coords="390,1432,562,1473"/>
+</map>

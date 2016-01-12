@@ -1,0 +1,6 @@
+<map id="L4virtio::Svr::Dev_config::hdr" name="L4virtio::Svr::Dev_config::hdr">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a174d852ecb39140c6399af6dffe5efb1" title="Set device status failed bit. " alt="" coords="185,5,319,47"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a01556f856334cea1ab98ef40559a5ead" title="Set device status register. " alt="" coords="183,71,321,112"/>
+<area shape="rect" id="node5" href="$classL4virtio_1_1Svr_1_1Device__t.html#ab906b4cc61026fd815a8056f07bef10e" title="Enable/disable the specified queue. " alt="" coords="180,136,324,177"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Device__t.html#a29f780ecb04509d8b72f4a155b073c74" title="Transition device into failed state. " alt="" coords="372,5,516,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="L4vbus::Vbus::request_resource" name="L4vbus::Vbus::request_resource">
+<area shape="rect" id="node2" href="$classL4Re_1_1Dataspace.html#a3e81d864adcc2c7a5ce251d6f47d76fa" title="Get flags of the dataspace. " alt="" coords="214,5,381,32"/>
+<area shape="rect" id="node4" href="$group__l4vbus__module.html#gab031e3ff00474f3b961c6426a076b581" title="Request a resource of a specific type. " alt="" coords="208,56,387,83"/>
+<area shape="rect" id="node3" href="$classL4Re_1_1Dataspace.html#aa67190f2465d092c35c62d432814a8b3" title="Get information on the dataspace. " alt="" coords="435,5,593,32"/>
+</map>

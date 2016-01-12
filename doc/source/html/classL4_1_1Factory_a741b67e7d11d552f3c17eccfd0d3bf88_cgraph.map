@@ -1,0 +1,4 @@
+<map id="L4::Factory::create_irq" name="L4::Factory::create_irq">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="241,5,359,32"/>
+<area shape="rect" id="node3" href="$group__l4__factory__api.html#ga1e57007da7cf96511572fc5c00e6e649" title="Create a new IRQ sender. " alt="" coords="215,56,385,83"/>
+</map>

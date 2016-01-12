@@ -1,0 +1,9 @@
+<map id="L4Re::Rm::attach" name="L4Re::Rm::attach">
+<area shape="rect" id="node2" href="$classL4_1_1Ipc_1_1Cap.html#a788cabb50ef8b4e36c656fe3f07a3190" title="Return the L4::Cap&lt;T&gt; of this Cap. " alt="" coords="201,48,325,75"/>
+<area shape="rect" id="node3" href="$classL4Re_1_1Dataspace.html#a714edfa3b455c8d21e72406d97f0aca8" title="Map a part of a dataspace completely. " alt="" coords="181,99,344,141"/>
+<area shape="rect" id="node4" href="$group__l4__fpage__api.html#ga960465b596caf60adc6c5042e9257f0a" title="Determine maximum flex page size of a region. " alt="" coords="392,5,545,32"/>
+<area shape="rect" id="node5" href="$group__l4__memory__api.html#ga792959ba1e87fecf90018876f32d7bc9" title="Round an address down to the next lower flex page with size bits. " alt="" coords="593,31,699,57"/>
+<area shape="rect" id="node6" href="$group__l4__memory__api.html#ga96e3b2d8e69308aecbb11d1d24f61662" title="Round address up to the next page. " alt="" coords="410,107,527,133"/>
+<area shape="rect" id="node7" href="$group__l4__memory__api.html#gae8aa66c17956ac2dfc2a6d5788fd97a9" title="Round value up to the next alignment with bits size. " alt="" coords="413,157,524,184"/>
+<area shape="rect" id="node8" href="$group__l4__memory__api.html#ga70b72ae96c18cb49a3445198711bba0d" title="Round an address down to the next lower page boundary. " alt="" coords="413,208,525,235"/>
+</map>

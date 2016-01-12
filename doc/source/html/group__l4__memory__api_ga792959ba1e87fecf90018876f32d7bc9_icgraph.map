@@ -1,0 +1,7 @@
+<map id="l4_trunc_size" name="l4_trunc_size">
+<area shape="rect" id="node2" href="$classcxx_1_1List__alloc.html#a6add9811cb611b9a1e7ee21c92809131" title="Allocate a memory block of min &lt;= size &lt;=max. " alt="" coords="159,5,336,32"/>
+<area shape="rect" id="node3" href="$group__l4__fpage__api.html#ga960465b596caf60adc6c5042e9257f0a" title="Determine maximum flex page size of a region. " alt="" coords="171,56,324,83"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Dataspace.html#a714edfa3b455c8d21e72406d97f0aca8" title="Map a part of a dataspace completely. " alt="" coords="384,99,547,141"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Dataspace.html#a0989b8fd171878374b13fb752fd17912" title="Request a flex&#45;page mapping from the dataspace. " alt="" coords="384,48,547,75"/>
+<area shape="rect" id="node6" href="$classL4Re_1_1Rm.html#a3c94994f5df76080279d08f12b8d4e99" title="Attach a data space to a region. " alt="" coords="595,107,723,133"/>
+</map>

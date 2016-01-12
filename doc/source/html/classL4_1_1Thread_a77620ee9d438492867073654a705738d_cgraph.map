@@ -1,0 +1,7 @@
+<map id="L4::Thread::ex_regs" name="L4::Thread::ex_regs">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="219,5,337,32"/>
+<area shape="rect" id="node3" href="$group__l4__thread__api.html#ga9387fbfe618c3ede0eae63261ce1662e" title="Exchange basic thread registers. " alt="" coords="200,56,356,83"/>
+<area shape="rect" id="node4" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="404,31,492,57"/>
+<area shape="rect" id="node6" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="405,81,491,108"/>
+<area shape="rect" id="node5" href="$group__l4__ipc__api.html#ga0e7e5b18d784b1d3439ea6e5b4bea4e2" title="Generic L4 object invocation. " alt="" coords="540,31,599,57"/>
+</map>

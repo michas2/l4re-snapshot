@@ -1,0 +1,5 @@
+<map id="L4::Ipc_svr::Timeout_queue::remove" name="L4::Ipc_svr::Timeout_queue::remove">
+<area shape="rect" id="node2" href="$classcxx_1_1Bits_1_1Basic__list.html#af857846edcaf6cbc84827c585b45fd49" title="Return an iterator to the beginning of the list. " alt="" coords="200,5,337,47"/>
+<area shape="rect" id="node3" href="$classcxx_1_1Bits_1_1Basic__list.html#a0c371c0d86e7c0fc5aa78745e48ecbb4" title="Check if the list is empty. " alt="" coords="200,71,337,112"/>
+<area shape="rect" id="node4" href="$classcxx_1_1H__list.html#abc13d604f76c1da4ea72c30c1302835d" title="Remove the given element from its list. " alt="" coords="200,137,337,163"/>
+</map>

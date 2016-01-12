@@ -1,0 +1,7 @@
+<map id="l4_thread_vcpu_control" name="l4_thread_vcpu_control">
+<area shape="rect" id="node2" href="$group__l4__thread__api.html#ga8ebc0dd643266610d76860cf0fb77f53" title="Enable or disable the vCPU feature for the thread. " alt="" coords="224,31,409,57"/>
+<area shape="rect" id="node6" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="283,81,350,108"/>
+<area shape="rect" id="node3" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="457,5,545,32"/>
+<area shape="rect" id="node5" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="458,56,545,83"/>
+<area shape="rect" id="node4" href="$group__l4__ipc__api.html#ga0e7e5b18d784b1d3439ea6e5b4bea4e2" title="Generic L4 object invocation. " alt="" coords="593,5,652,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="l4_msgtag_has_error" name="l4_msgtag_has_error">
+<area shape="rect" id="node2" href="$group__l4__icu__api.html#ga0c5c381566e2e9a8dbb41f14e33c4437" title="Get MSI info about IRQ. " alt="" coords="211,9,344,36"/>
+<area shape="rect" id="node4" href="$group__l4__ipc__err__api.html#gad40f404217497793e95a10d77a47db39" title="Get the error code for an object invocation. " alt="" coords="228,64,327,91"/>
+<area shape="rect" id="node6" href="$group__l4__vcon__api.html#ga6ca009a14f3b99a82f23d70891dc3107" title="Write data to this virtual console. " alt="" coords="215,123,339,149"/>
+<area shape="rect" id="node3" href="$group__l4__icu__api.html#ga626c5b32a678d274de89b2be944b6a3f" title="Get MSI info about IRQ. " alt="" coords="416,5,535,32"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="392,57,559,98"/>
+<area shape="rect" id="node7" href="$classL4_1_1Vcon.html#a9f315c8727ffbd444e19e0c2528c9a93" title="Write data to this virtual console. " alt="" coords="419,123,531,149"/>
+<area shape="rect" id="node8" href="$group__l4__vcon__api.html#gadb811578d1b40de930857220696e1197" title="Write data to virtual console. " alt="" coords="421,173,530,200"/>
+</map>

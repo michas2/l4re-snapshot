@@ -1,0 +1,11 @@
+<map id="l4_msgtag_label" name="l4_msgtag_label">
+<area shape="rect" id="node2" href="$group__l4__factory__api.html#ga935f08d65381d02d9bc6d3a48abe8a78" title="Create a new IPC gate. " alt="" coords="187,31,370,57"/>
+<area shape="rect" id="node5" href="$group__l4__msgtag__api.html#ga0f2cf0a5f8d4a733f69b94dcc388c2ef" title="Test for exception protocol. " alt="" coords="191,81,366,108"/>
+<area shape="rect" id="node6" href="$group__l4__msgtag__api.html#ga463384faf9cb37d3f65f24913e34d687" title="Test for IO&#45;page&#45;fault protocol. " alt="" coords="197,133,361,174"/>
+<area shape="rect" id="node7" href="$group__l4__msgtag__api.html#gaf949daa8e7aa7d20743502de15e86dcd" title="Test for page&#45;fault protocol. " alt="" coords="189,199,368,225"/>
+<area shape="rect" id="node8" href="$group__l4__msgtag__api.html#gafb02742f6231ff4568412fed96e7e272" title="Test for preemption protocol. " alt="" coords="187,249,371,276"/>
+<area shape="rect" id="node9" href="$group__l4__msgtag__api.html#ga047100a8ec6216015fbd1385f5443760" title="Test for sigma0 protocol. " alt="" coords="199,300,358,327"/>
+<area shape="rect" id="node10" href="$group__l4__msgtag__api.html#gafc73bad60b56767f6eb04cf4b71838ee" title="Test for system&#45;exception protocol. " alt="" coords="177,351,380,377"/>
+<area shape="rect" id="node3" href="$classL4_1_1Factory.html#a5085c44d657e806e17e7377c144a7c17" title="Create a new IPC gate. " alt="" coords="428,5,601,32"/>
+<area shape="rect" id="node4" href="$group__l4__factory__api.html#ga15e3ccc0f2ac38b98bfc943bfbcbfc57" title="Create a new IPC gate. " alt="" coords="431,56,599,83"/>
+</map>

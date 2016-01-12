@@ -1,0 +1,7 @@
+<map id="L4virtio::Svr::Request_processor::start" name="L4virtio::Svr::Request_processor::start">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Request__processor.html#a516d16a8d18cc5871f5be3976cf112c1" title="Start processing a new request. " alt="" coords="207,104,360,145"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Virtqueue_1_1Head__desc.html#aea90d78551c42f2690ccf8339844f0a0" title="L4virtio::Svr::Virtqueue\l::Head_desc::desc" alt="" coords="411,5,571,47"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Svr_1_1Virtqueue.html#adc479ed59de24b3300ebeeeb0b872d6e" title="Get a descriptor from the descriptor list. " alt="" coords="411,71,571,112"/>
+<area shape="rect" id="node5" href="$structL4virtio_1_1Virtqueue_1_1Desc_1_1Flags.html#a7571389cc780e835bb58b3b3b7dfe3cf" title="Get the indirect bits ( 2 to 2 ) of raw . " alt="" coords="415,136,567,177"/>
+<area shape="rect" id="node6" href="$classL4virtio_1_1Virtqueue.html#a9592b88f49a083162106c091fc741a7b" title="L4virtio::Virtqueue::num" alt="" coords="408,202,573,229"/>
+</map>

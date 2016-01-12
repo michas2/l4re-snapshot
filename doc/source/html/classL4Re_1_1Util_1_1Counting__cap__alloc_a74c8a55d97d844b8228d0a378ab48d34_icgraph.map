@@ -1,0 +1,5 @@
+<map id="L4Re::Util::Counting_cap_alloc::alloc" name="L4Re::Util::Counting_cap_alloc::alloc">
+<area shape="rect" id="node2" href="$classL4Re_1_1Util_1_1Counting__cap__alloc.html#a4f4222a51bf36d9f597a3417170e52a6" title="Allocated a new capability. " alt="" coords="209,5,353,47"/>
+<area shape="rect" id="node3" href="$classL4Re_1_1Util_1_1Br__manager.html#aa501e7c126f7a2d7435c151574e8b26c" title="Tells the server to allocate buffers for the given demand. " alt="" coords="197,71,364,112"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Util_1_1Br__manager.html#a55af0abcade1bbfef84ba3c2cfc331e8" title="Allocate a new capability for the given receive buffer. " alt="" coords="197,136,364,177"/>
+</map>

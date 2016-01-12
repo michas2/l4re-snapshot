@@ -1,0 +1,8 @@
+<map id="L4virtio::Svr::Driver_mem_region_t::Driver_mem_region_t" name="L4virtio::Svr::Driver_mem_region_t::Driver_mem_region_t">
+<area shape="rect" id="node2" href="$namespaceL4Re.html#a3f17984019f06676a7e3eecb41bbb0bb" title="Generate C++ exception on error. " alt="" coords="244,5,349,32"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Driver__mem__region__t.html#a8535565fa82f1c1b761026858986fc57" title="L4virtio::Svr::Driver\l_mem_region_t::ds" alt="" coords="226,57,367,98"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Dataspace.html#aa67190f2465d092c35c62d432814a8b3" title="Get information on the dataspace. " alt="" coords="217,123,376,149"/>
+<area shape="rect" id="node5" href="$group__l4__memory__api.html#ga96e3b2d8e69308aecbb11d1d24f61662" title="Round address up to the next page. " alt="" coords="238,173,355,200"/>
+<area shape="rect" id="node6" href="$namespaceL4_1_1Ipc.html#a312e3c96f771bf1e74b3ece6d50445e1" title="Make an L4::Ipc::Cap&lt;T&gt; for the given capability and rights. " alt="" coords="229,224,364,251"/>
+<area shape="rect" id="node7" href="$classL4virtio_1_1Svr_1_1Driver__mem__region__t.html#a9eaaa9561067e69f745771fd21e4ac5c" title="L4virtio::Svr::Driver\l_mem_region_t::size" alt="" coords="221,275,372,317"/>
+</map>

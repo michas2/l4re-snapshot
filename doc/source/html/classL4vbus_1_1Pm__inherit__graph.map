@@ -1,0 +1,9 @@
+<map id="L4vbus::Pm&lt; DEC &gt;" name="L4vbus::Pm&lt; DEC &gt;">
+<area shape="rect" id="node2" href="$classL4vbus_1_1Pm.html" title="{L4vbus::Pm\&lt; Device \&gt;\n||+ pm_suspend()\l+ pm_resume()\l}" alt="" coords="303,160,462,252"/>
+<area shape="rect" id="node3" href="$classL4vbus_1_1Device.html" title="Device on a virtual bus (V&#45;BUS) " alt="" coords="315,301,450,525"/>
+<area shape="rect" id="node4" href="$classL4vbus_1_1Gpio__module.html" title="A Gpio_module groups multiple GPIO pins together. " alt="" coords="5,597,160,762"/>
+<area shape="rect" id="node5" href="$classL4vbus_1_1Gpio__pin.html" title="A GPIO pin. " alt="" coords="183,575,313,784"/>
+<area shape="rect" id="node6" href="$classL4vbus_1_1Icu.html" title="V&#45;BUS Interrupt controller API (ICU) " alt="" coords="337,641,428,718"/>
+<area shape="rect" id="node7" href="$classL4vbus_1_1Pci__dev.html" title="A PCI device. " alt="" coords="452,626,575,733"/>
+<area shape="rect" id="node8" href="$classL4vbus_1_1Pci__host__bridge.html" title="A Pci host bridge. " alt="" coords="599,626,772,733"/>
+</map>

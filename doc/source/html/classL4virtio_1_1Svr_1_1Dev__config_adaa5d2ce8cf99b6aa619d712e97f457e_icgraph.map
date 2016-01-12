@@ -1,0 +1,5 @@
+<map id="L4virtio::Svr::Dev_config::qconfig" name="L4virtio::Svr::Dev_config::qconfig">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a3ba57cefdedfddfff248809a5779b32e" title="Reset queue config for the given queue. " alt="" coords="180,5,332,47"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Svr_1_1Device__t.html#ab906b4cc61026fd815a8056f07bef10e" title="Enable/disable the specified queue. " alt="" coords="184,71,328,112"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Device__t.html#aedbe988112e98750e5409a8c92358dcf" title="Trigger reset for the configuration space for queue idx. " alt="" coords="380,5,544,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="L4::Ipc::Istream::tag" name="L4::Ipc::Istream::tag">
+<area shape="rect" id="node2" href="$classL4_1_1Ipc_1_1Iostream.html#a18ac55dddefc29f84d47935dbc86b7ca" title="Do an IPC call using the message in the output stream and receiving to the input stream. " alt="" coords="196,5,347,32"/>
+<area shape="rect" id="node3" href="$classL4_1_1Ipc_1_1Iostream.html#a38428e61e86208016e9653937da01f6d" title="Do an IPC reply and wait. " alt="" coords="206,57,337,98"/>
+<area shape="rect" id="node4" href="$classL4_1_1Ipc_1_1Istream.html#aeefe739d106daa026a1d94ade34f1d97" title="Wait for an incoming message from any sender. " alt="" coords="198,123,345,149"/>
+</map>

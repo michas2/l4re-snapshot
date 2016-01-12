@@ -1,0 +1,8 @@
+<map id="l4_irq_mux_chain_u" name="l4_irq_mux_chain_u">
+<area shape="rect" id="node2" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="229,5,317,32"/>
+<area shape="rect" id="node4" href="$group__l4__msgitem__api.html#ga6c9056957ac92e458eaabcbf3223ce6f" title="Create the first word for a map item for the object space. " alt="" coords="200,56,345,83"/>
+<area shape="rect" id="node6" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="229,107,316,133"/>
+<area shape="rect" id="node7" href="$group__l4__fpage__api.html#ga3eaf59757a63812044e2b3a1cdf09d54" title="Create a kernel&#45;object flex page. " alt="" coords="221,157,324,184"/>
+<area shape="rect" id="node3" href="$group__l4__ipc__api.html#ga0e7e5b18d784b1d3439ea6e5b4bea4e2" title="Generic L4 object invocation. " alt="" coords="423,5,482,32"/>
+<area shape="rect" id="node5" href="$group__l4__msgitem__api.html#ga1ce1321fd25614e9af43a35819540ba7" title="Create the first word for a map item for the memory space. " alt="" coords="393,56,512,83"/>
+</map>

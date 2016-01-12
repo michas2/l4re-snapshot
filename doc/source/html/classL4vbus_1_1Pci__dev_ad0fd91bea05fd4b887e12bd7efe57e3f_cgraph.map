@@ -1,0 +1,4 @@
+<map id="L4vbus::Pci_dev::cfg_read" name="L4vbus::Pci_dev::cfg_read">
+<area shape="rect" id="node2" href="$classL4vbus_1_1Device.html#a6cb5d94d38e04d191497e4d845359e68" title="access the V&#45;BUS capability of the underlying virtual bus. " alt="" coords="238,5,411,32"/>
+<area shape="rect" id="node3" href="$group__l4vbus__pci__module.html#gaf6db088ef60ca6f09dbfb50a4b34ae32" title="Read from the device&#39;s vPCI configuration space. " alt="" coords="237,56,412,83"/>
+</map>

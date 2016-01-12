@@ -1,0 +1,7 @@
+<map id="cxx::max" name="cxx::max">
+<area shape="rect" id="node2" href="$classcxx_1_1List__alloc.html#a6add9811cb611b9a1e7ee21c92809131" title="Allocate a memory block of min &lt;= size &lt;=max. " alt="" coords="128,5,305,32"/>
+<area shape="rect" id="node3" href="$group__l4__scheduler__api.html#ga5577039f23b78e28e8ade6d51c4a4850" title="ABI function for &#39;info&#39; call. " alt="" coords="149,56,285,83"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Svr_1_1Driver__mem__list__t.html#a8b6a1e1abadf68d73ceb813ac4cbc703" title="Make a fresh list with capacity max. " alt="" coords="147,107,286,149"/>
+<area shape="rect" id="node6" href="$classL4_1_1Type__info_1_1Demand.html#ab6ed78952d4c2b79a4b9fb2af1f39be3" title="get the combined demand of this and rhs " alt="" coords="133,173,300,214"/>
+<area shape="rect" id="node5" href="$classL4virtio_1_1Svr_1_1Device__t.html#ac13ae09cfc41fad98bd25c2d76bfac63" title="Initialize the memory region list to the given maximum. " alt="" coords="353,107,497,149"/>
+</map>

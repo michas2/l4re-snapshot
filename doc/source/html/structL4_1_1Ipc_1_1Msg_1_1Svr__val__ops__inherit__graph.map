@@ -1,0 +1,5 @@
+<map id="L4::Ipc::Msg::Svr_val_ops&lt; MTYPE, DIR, CLASS &gt;" name="L4::Ipc::Msg::Svr_val_ops&lt; MTYPE, DIR, CLASS &gt;">
+<area shape="rect" id="node2" href="$structL4_1_1Ipc_1_1Msg_1_1Svr__val__ops.html" title="{L4::Ipc::Msg::Svr_val\l_ops\&lt; L4::Ipc::Snd_fpage,\l Dir_in, CLASS \&gt;\n||}" alt="" coords="5,175,189,281"/>
+<area shape="rect" id="node3" href="$structL4_1_1Ipc_1_1Msg_1_1Svr__val__ops.html" title="{L4::Ipc::Msg::Svr_val\l_ops\&lt; Array_ref\&lt; A, LEN\l \&gt;, Dir_in, CLASS \&gt;\n||}" alt="" coords="213,175,392,281"/>
+<area shape="rect" id="node4" href="$structL4_1_1Ipc_1_1Msg_1_1Svr__val__ops.html" title="{L4::Ipc::Msg::Svr_val\l_ops\&lt; Array_ref\&lt; A, LEN\l \&gt;, Dir_out, CLASS \&gt;\n||}" alt="" coords="416,175,595,281"/>
+</map>

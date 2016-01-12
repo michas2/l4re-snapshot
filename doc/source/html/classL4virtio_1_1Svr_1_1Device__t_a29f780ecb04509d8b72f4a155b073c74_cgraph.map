@@ -1,0 +1,6 @@
+<map id="L4virtio::Svr::Device_t::device_error" name="L4virtio::Svr::Device_t::device_error">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Device__t.html#a4350f6e35f43df84584ec30740f5a7aa" title="reset callback, called for doing a device reset " alt="" coords="197,5,341,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a174d852ecb39140c6399af6dffe5efb1" title="Set device status failed bit. " alt="" coords="202,71,337,112"/>
+<area shape="rect" id="node4" href="$structL4virtio_1_1Svr_1_1Dev__status.html#afc46730926dbfffa984b1ecee4dd1517" title="Get the failed bits ( 7 to 7 ) of raw . " alt="" coords="389,37,516,79"/>
+<area shape="rect" id="node5" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a1652b9c534c3f557cca93246ed9bf13d" title="Get a read&#45;only pointer to the config header. " alt="" coords="389,103,516,144"/>
+</map>

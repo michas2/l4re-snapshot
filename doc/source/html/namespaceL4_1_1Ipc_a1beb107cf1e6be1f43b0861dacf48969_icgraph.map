@@ -1,0 +1,6 @@
+<map id="L4::Ipc::make_cap_rw" name="L4::Ipc::make_cap_rw">
+<area shape="rect" id="node2" href="$classL4Re_1_1Util_1_1Event__buffer__t.html#af8bab7db99fa72c6e88dc3152158ff02" title="Attach event buffer from address space. " alt="" coords="211,5,377,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a663b81f49e6ce03f9b7e136d6646bf89" title="Setup/Create a L4&#45;Virtio config data space. " alt="" coords="221,71,367,112"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Util_1_1Event__t.html#a6052908f83d35a7bb1ba9371cbfc9834" title="Initialise an event object. " alt="" coords="226,136,362,177"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Util_1_1Event__t.html#a2161b185b3f69aa9ef597a03fdbde247" title="Initialise an event object in polling mode. " alt="" coords="226,201,362,243"/>
+</map>

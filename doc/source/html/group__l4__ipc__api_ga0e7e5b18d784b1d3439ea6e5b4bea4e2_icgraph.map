@@ -1,0 +1,51 @@
+<map id="l4_ipc" name="l4_ipc">
+<area shape="rect" id="node2" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="149,608,237,635"/>
+<area shape="rect" id="node36" href="$group__l4__ipc__api.html#ga3a8617092651c67f9ef1670b53fce66c" title="Wait for a message from a specific source. " alt="" coords="137,1193,250,1220"/>
+<area shape="rect" id="node39" href="$group__l4__ipc__api.html#ga1bd93bc08f402cc149bf62cba3ba9905" title="Reply and wait operation (uses the reply capability). " alt="" coords="112,1361,275,1388"/>
+<area shape="rect" id="node42" href="$group__l4__ipc__api.html#ga7de45eb59ce852466362ea85da00299e" title="Send a message to an object (do not wait for a reply). " alt="" coords="144,1412,243,1439"/>
+<area shape="rect" id="node47" href="$group__l4__ipc__api.html#ga72ee1f322b3f633fb885905ce213e2b5" title="Send a message and do an open wait. " alt="" coords="112,1564,275,1591"/>
+<area shape="rect" id="node49" href="$group__l4__ipc__api.html#gade81ef7ed9cb9e08bec716e640eabe04" title="Wait for an incoming message from any possible sender. " alt="" coords="147,1463,239,1489"/>
+<area shape="rect" id="node3" href="$group__api__calls__fiasco.html#ga889e52253474f768149a012b94fac148" title="Set GDT segment descriptors. " alt="" coords="358,696,473,723"/>
+<area shape="rect" id="node4" href="$group__api__calls__fiasco.html#ga394d6b4591383b0f6c78155e6e5e5180" title="Set LDT segments descriptors. " alt="" coords="361,747,470,773"/>
+<area shape="rect" id="node5" href="$group__api__calls__fiasco.html#ga62cd4adfb0915e034d528472c73ad270" title="Return the offset of the entry in the GDT. " alt="" coords="338,798,493,839"/>
+<area shape="rect" id="node6" href="$classL4_1_1Ipc_1_1Iostream.html#a18ac55dddefc29f84d47935dbc86b7ca" title="Do an IPC call using the message in the output stream and receiving to the input stream. " alt="" coords="340,864,491,891"/>
+<area shape="rect" id="node7" href="$group__l4__irq__api.html#ga4c223bd014d16a6e114ac22376e1bfa1" title="Attach a thread to this interrupt. " alt="" coords="356,915,475,941"/>
+<area shape="rect" id="node10" href="$group__l4__irq__api.html#ga0bfe3132479962ae237087568fc2c94f" title="Attach an IRQ to this multiplexer. " alt="" coords="342,965,489,992"/>
+<area shape="rect" id="node13" href="$group__l4__irq__api.html#ga52ad27a5a0d6a21bc7449a69a820db71" title="Detach from this interrupt. " alt="" coords="354,1016,477,1043"/>
+<area shape="rect" id="node16" href="$group__l4__irq__api.html#ga430999e1f8f6eb5f7e3f957b854b7446" title="Unmask and wait for this IRQ. " alt="" coords="352,1092,479,1119"/>
+<area shape="rect" id="node19" href="$group__l4__icu__api.html#ga29217a67f405c5d860002dd902bf71e4" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="362,56,469,83"/>
+<area shape="rect" id="node22" href="$group__l4__icu__api.html#gae74204b8f2101e176add646ec2958182" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="354,157,477,184"/>
+<area shape="rect" id="node25" href="$group__l4__icu__api.html#ga7850caf0c29c87ba3477e1fe1139681f" title="Get information about the capabilites of the ICU. " alt="" coords="363,208,467,235"/>
+<area shape="rect" id="node28" href="$group__l4__icu__api.html#ga0c5c381566e2e9a8dbb41f14e33c4437" title="Get MSI info about IRQ. " alt="" coords="349,259,482,285"/>
+<area shape="rect" id="node29" href="$group__l4__icu__api.html#gac43905e779ca41f20c9cd23fb28ac095" title="Set interrupt mode. " alt="" coords="344,309,487,336"/>
+<area shape="rect" id="node30" href="$classL4_1_1Thread.html#a61ecf8a06d2b4996ebb67180b1d5d35c" title="Apply sender modifiction rules. " alt="" coords="347,361,484,402"/>
+<area shape="rect" id="node31" href="$group__l4__vcon__api.html#ga17f827c7d5f96b36a7c552af8d61a0e5" title="Set the attributes of this virtual console. " alt="" coords="344,427,487,453"/>
+<area shape="rect" id="node32" href="$group__l4__vcon__api.html#gae9c105658ebcbc5d1a86e0672f0a5465" title="Get attributes of this virtual console. " alt="" coords="344,477,487,504"/>
+<area shape="rect" id="node33" href="$group__l4__thread__api.html#ga9387fbfe618c3ede0eae63261ce1662e" title="Exchange basic thread registers. " alt="" coords="337,528,493,555"/>
+<area shape="rect" id="node34" href="$group__l4__thread__api.html#ga8ebc0dd643266610d76860cf0fb77f53" title="Enable or disable the vCPU feature for the thread. " alt="" coords="323,579,508,605"/>
+<area shape="rect" id="node35" href="$group__l4__thread__api.html#ga1015c5500bcfeaa01d209ee116cf57ec" title="Enable or disable the extended vCPU feature for the thread. " alt="" coords="330,630,501,671"/>
+<area shape="rect" id="node8" href="$group__l4__irq__api.html#ga33a90f914ea574aec2d9795288bd1f3e" title="Attach a thread to an interrupt source. " alt="" coords="571,813,675,840"/>
+<area shape="rect" id="node9" href="$classL4_1_1Irq.html#a639504ec59299d5cc32f3e42f007317d" title="Attach a thread to this interrupt. " alt="" coords="570,864,677,891"/>
+<area shape="rect" id="node11" href="$group__l4__irq__api.html#ga3176fd8767eeabcf521356c6f1b21ac4" title="Chain an IRQ to another master IRQ source. " alt="" coords="557,915,689,941"/>
+<area shape="rect" id="node12" href="$structL4_1_1Irq__mux.html#ab1a64e5c210eac48b4600ef2fb85b967" title="Attach an IRQ to this multiplexer. " alt="" coords="556,965,691,992"/>
+<area shape="rect" id="node14" href="$group__l4__irq__api.html#ga1d9b0812f3bc01d6d5ff7010df231e56" title="Detach from an interrupt source. " alt="" coords="569,1016,677,1043"/>
+<area shape="rect" id="node15" href="$classL4_1_1Irq.html#a022dcb4101ba8205547c095cbc7e34a5" title="Detach from this interrupt. " alt="" coords="568,1067,679,1093"/>
+<area shape="rect" id="node17" href="$group__l4__irq__api.html#ga997f18b89d6235214d2f9c381ed6c6a5" title="Unmask and wait for specified IRQ. " alt="" coords="568,1117,679,1144"/>
+<area shape="rect" id="node18" href="$classL4_1_1Irq.html#a2b5cd8b070f23c8331dfac7903062ea5" title="Unmask and wait for this IRQ. " alt="" coords="567,1168,680,1195"/>
+<area shape="rect" id="node20" href="$classL4_1_1Icu.html#a998aaa8314b29b44aac4e3b59d7abfa0" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="576,5,671,32"/>
+<area shape="rect" id="node21" href="$group__l4__icu__api.html#ga793c534597fd98ee93cbaf24ad08a615" title="Bind an interrupt line of an interrupt controller to an interrupt object. " alt="" coords="577,56,669,83"/>
+<area shape="rect" id="node23" href="$group__l4__icu__api.html#ga77d613300601861b13605e7687146dc5" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="570,107,677,133"/>
+<area shape="rect" id="node24" href="$classL4_1_1Icu.html#a47be3c88b707afd0fc55475261f6164d" title="Remove binding of an interrupt line from the interrupt controller object. " alt="" coords="569,157,678,184"/>
+<area shape="rect" id="node26" href="$classL4_1_1Icu.html#a21945937443dd5425d6372f02906c46c" title="Get information about the capabilites of the ICU. " alt="" coords="578,208,669,235"/>
+<area shape="rect" id="node27" href="$group__l4__icu__api.html#ga01c207fa8b166832b7eab0c60a8f2a7b" title="Get information about the capabilites of the ICU. " alt="" coords="579,259,668,285"/>
+<area shape="rect" id="node37" href="$group__l4__ipc__api.html#gac3b4a3b13e77b799dc154c57a04cdd9b" title="Sleep for an amount of time. " alt="" coords="365,1193,466,1220"/>
+<area shape="rect" id="node38" href="$group__l4__thread__api.html#ga5e47131f486f920826b5f72dad82bafe" title="Yield current time slice. " alt="" coords="356,1143,475,1169"/>
+<area shape="rect" id="node40" href="$classL4_1_1Ipc_1_1Iostream.html#a38428e61e86208016e9653937da01f6d" title="Do an IPC reply and wait. " alt="" coords="350,1245,481,1286"/>
+<area shape="rect" id="node41" href="$classL4_1_1Server.html#a4333dc750dee494087ee92ab058718a1" title="Internal implementation for reply and wait. " alt="" coords="329,1463,501,1489"/>
+<area shape="rect" id="node43" href="$classL4_1_1Ipc_1_1Ostream.html#a0ac15ba65285ed66a3b2ae7f9dc612d1" title="Send the message via IPC to the given receiver. " alt="" coords="335,1412,495,1439"/>
+<area shape="rect" id="node44" href="$group__l4__irq__api.html#ga180cfaf342ce9ff484a6aa7c276e1597" title="Trigger. " alt="" coords="355,1513,476,1540"/>
+<area shape="rect" id="node45" href="$group__l4__irq__api.html#ga1dd27341b8d2a6cd09e9784188109b7c" title="Unmask IRQ. " alt="" coords="351,1311,479,1337"/>
+<area shape="rect" id="node46" href="$group__l4__vcon__api.html#ga9656f4fe7ea739a0bf162a5f76ef32fe" title="Send data to this virtual console. " alt="" coords="353,1361,478,1388"/>
+<area shape="rect" id="node48" href="$group__l4__irq__api.html#ga1690f577bd2896ec9b1e5a24d00af874" title="Unmask IRQ and (open) wait for any message. " alt="" coords="363,1615,468,1641"/>
+<area shape="rect" id="node50" href="$classL4_1_1Ipc_1_1Istream.html#aeefe739d106daa026a1d94ade34f1d97" title="Wait for an incoming message from any sender. " alt="" coords="342,1564,489,1591"/>
+</map>

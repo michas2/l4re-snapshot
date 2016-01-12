@@ -1,0 +1,6 @@
+<map id="l4_is_invalid_cap" name="l4_is_invalid_cap">
+<area shape="rect" id="node2" href="$group__l4__irq__api.html#ga4c223bd014d16a6e114ac22376e1bfa1" title="Attach a thread to this interrupt. " alt="" coords="184,38,303,65"/>
+<area shape="rect" id="node3" href="$classL4_1_1Irq.html#a639504ec59299d5cc32f3e42f007317d" title="Attach a thread to this interrupt. " alt="" coords="351,13,457,39"/>
+<area shape="rect" id="node5" href="$group__l4__irq__api.html#ga33a90f914ea574aec2d9795288bd1f3e" title="Attach a thread to an interrupt source. " alt="" coords="352,63,456,90"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="505,5,672,47"/>
+</map>

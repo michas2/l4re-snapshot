@@ -1,0 +1,4 @@
+<map id="cxx::min" name="cxx::min">
+<area shape="rect" id="node2" href="$structL4virtio_1_1Svr_1_1Data__buffer.html#a42859203b224b9f1032ab3264d8745b6" title="Copy contents from this buffer to the destination buffer. " alt="" coords="124,5,255,47"/>
+<area shape="rect" id="node3" href="$structL4virtio_1_1Svr_1_1Data__buffer.html#aecd5fb1a25657f4a7b3af2362a74433c" title="Skip given number of bytes in this buffer. " alt="" coords="124,71,255,112"/>
+</map>

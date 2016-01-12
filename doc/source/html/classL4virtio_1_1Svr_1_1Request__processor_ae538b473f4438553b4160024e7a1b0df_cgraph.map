@@ -1,0 +1,4 @@
+<map id="L4virtio::Svr::Request_processor::next" name="L4virtio::Svr::Request_processor::next">
+<area shape="rect" id="node2" href="$structL4virtio_1_1Virtqueue_1_1Desc_1_1Flags.html#a7571389cc780e835bb58b3b3b7dfe3cf" title="Get the indirect bits ( 2 to 2 ) of raw . " alt="" coords="207,5,359,47"/>
+<area shape="rect" id="node3" href="$structL4virtio_1_1Virtqueue_1_1Desc_1_1Flags.html#aa038797487b572d59526c00623170372" title="Get the next bits ( 0 to 0 ) of raw . " alt="" coords="216,71,349,112"/>
+</map>

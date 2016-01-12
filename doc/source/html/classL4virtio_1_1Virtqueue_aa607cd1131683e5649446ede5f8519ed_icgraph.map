@@ -1,0 +1,4 @@
+<map id="L4virtio::Virtqueue::setup" name="L4virtio::Virtqueue::setup">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Driver_1_1Virtqueue.html#aab98558c103f108c19c633c4de974a35" title="Initialise this virtqueue. " alt="" coords="187,5,364,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Device__t.html#ab906b4cc61026fd815a8056f07bef10e" title="Enable/disable the specified queue. " alt="" coords="203,71,347,112"/>
+</map>

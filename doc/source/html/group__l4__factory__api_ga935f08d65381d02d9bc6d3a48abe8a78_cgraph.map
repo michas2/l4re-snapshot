@@ -1,0 +1,8 @@
+<map id="l4_factory_create_gate_u" name="l4_factory_create_gate_u">
+<area shape="rect" id="node2" href="$group__l4__msgitem__api.html#ga6c9056957ac92e458eaabcbf3223ce6f" title="Create the first word for a map item for the object space. " alt="" coords="236,5,381,32"/>
+<area shape="rect" id="node4" href="$group__l4__msgtag__api.html#ga661d71acad9d096fa990f7c94943bc78" title="Create a message tag from the specified values. " alt="" coords="265,56,352,83"/>
+<area shape="rect" id="node5" href="$group__l4__msgtag__api.html#gab0c4422a230cf5ef5793dbab1faeb3af" title="Get the protocol of tag. " alt="" coords="247,107,371,133"/>
+<area shape="rect" id="node6" href="$group__l4__msgtag__api.html#ga6d29d688c50ece7ec55f3c6ed749d375" title="Get the number of untyped words. " alt="" coords="242,157,375,184"/>
+<area shape="rect" id="node7" href="$group__l4__fpage__api.html#ga3eaf59757a63812044e2b3a1cdf09d54" title="Create a kernel&#45;object flex page. " alt="" coords="257,208,360,235"/>
+<area shape="rect" id="node3" href="$group__l4__msgitem__api.html#ga1ce1321fd25614e9af43a35819540ba7" title="Create the first word for a map item for the memory space. " alt="" coords="429,5,548,32"/>
+</map>

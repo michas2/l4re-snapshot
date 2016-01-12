@@ -1,0 +1,16 @@
+<map id="l4_ipc_send" name="l4_ipc_send">
+<area shape="rect" id="node2" href="$group__l4__irq__api.html#ga180cfaf342ce9ff484a6aa7c276e1597" title="Trigger. " alt="" coords="177,56,299,83"/>
+<area shape="rect" id="node6" href="$group__l4__irq__api.html#ga1dd27341b8d2a6cd09e9784188109b7c" title="Unmask IRQ. " alt="" coords="174,107,302,133"/>
+<area shape="rect" id="node8" href="$group__l4__vcon__api.html#ga9656f4fe7ea739a0bf162a5f76ef32fe" title="Send data to this virtual console. " alt="" coords="175,157,301,184"/>
+<area shape="rect" id="node14" href="$classL4_1_1Server.html#a4333dc750dee494087ee92ab058718a1" title="Internal implementation for reply and wait. " alt="" coords="152,208,324,235"/>
+<area shape="rect" id="node15" href="$classL4_1_1Ipc_1_1Ostream.html#a0ac15ba65285ed66a3b2ae7f9dc612d1" title="Send the message via IPC to the given receiver. " alt="" coords="158,259,318,285"/>
+<area shape="rect" id="node3" href="$group__l4__irq__api.html#gab24e0fc21a207fd566ece1e6fafbac48" title="Trigger an IRQ. " alt="" coords="400,5,507,32"/>
+<area shape="rect" id="node4" href="$structL4_1_1Triggerable.html#adf91901c4e2bd784c687e102a8469c45" title="Trigger. " alt="" coords="372,56,535,83"/>
+<area shape="rect" id="node5" href="$structL4_1_1Semaphore.html#aa13181d7e43470c833a76f430b0c547c" title="Semaphore up operation (wrapper for trigger()). " alt="" coords="583,56,721,83"/>
+<area shape="rect" id="node7" href="$group__l4__irq__api.html#ga213b7c4fe4d690ec2aec84fd226883c4" title="Unmask IRQ. " alt="" coords="397,107,510,133"/>
+<area shape="rect" id="node9" href="$classL4_1_1Vcon.html#aa07ed95540c20262fa54df8f4f7dab69" title="Send data to this virtual console. " alt="" coords="397,157,510,184"/>
+<area shape="rect" id="node10" href="$group__l4__vcon__api.html#gac67ad5dc11e25b48f476b8c8809d74ff" title="Send data to virtual console. " alt="" coords="398,208,509,235"/>
+<area shape="rect" id="node11" href="$group__l4__vcon__api.html#ga6ca009a14f3b99a82f23d70891dc3107" title="Write data to this virtual console. " alt="" coords="391,259,515,285"/>
+<area shape="rect" id="node12" href="$classL4_1_1Vcon.html#a9f315c8727ffbd444e19e0c2528c9a93" title="Write data to this virtual console. " alt="" coords="596,233,708,260"/>
+<area shape="rect" id="node13" href="$group__l4__vcon__api.html#gadb811578d1b40de930857220696e1197" title="Write data to virtual console. " alt="" coords="597,284,707,311"/>
+</map>

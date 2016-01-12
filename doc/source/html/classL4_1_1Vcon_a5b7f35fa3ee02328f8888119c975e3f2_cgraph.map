@@ -1,0 +1,4 @@
+<map id="L4::Vcon::read" name="L4::Vcon::read">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="166,5,285,32"/>
+<area shape="rect" id="node3" href="$group__l4__vcon__api.html#ga385793ab7934557d20db76af3bbfee7c" title="Read data from this virtual console. " alt="" coords="164,56,287,83"/>
+</map>

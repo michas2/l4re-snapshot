@@ -1,0 +1,8 @@
+<map id="L4virtio::Virtqueue::num" name="L4virtio::Virtqueue::num">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Virtqueue.html#aa607cd1131683e5649446ede5f8519ed" title="Enable this queue. " alt="" coords="229,71,362,112"/>
+<area shape="rect" id="node5" href="$classL4virtio_1_1Svr_1_1Request__processor.html#a516d16a8d18cc5871f5be3976cf112c1" title="Start processing a new request. " alt="" coords="219,136,372,177"/>
+<area shape="rect" id="node7" href="$classL4virtio_1_1Virtqueue.html#ad7db305655d1ff52564ef4be94d94435" title="Calculate the total size of this virtqueue. " alt="" coords="229,201,362,243"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Device__t.html#ab906b4cc61026fd815a8056f07bef10e" title="Enable/disable the specified queue. " alt="" coords="437,5,581,47"/>
+<area shape="rect" id="node4" href="$classL4virtio_1_1Driver_1_1Virtqueue.html#aab98558c103f108c19c633c4de974a35" title="Initialise this virtqueue. " alt="" coords="420,71,597,112"/>
+<area shape="rect" id="node6" href="$classL4virtio_1_1Svr_1_1Request__processor.html#a21a402e4f6f90a3e0e29251dee13554b" title="Start processing a new request. " alt="" coords="432,136,585,177"/>
+</map>
